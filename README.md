@@ -10,3 +10,7 @@
 3.[现控实验一 状态反馈与状态观测器](https://mimangz.github.io/MMzDiary/202205/MCTExpe1.htm)
 
 4.[现控实验二 线性系统二次型最优控制律](https://mimangz.github.io/MMzDiary/202205/MCTExpe2.htm)
+
+5.[电力系统继电保护复习（一）](https://mimangz.github.io/MMzDiary/202206/RPReview-P1.pdf)
+
+6.[电力系统继电保护复习（二）](https://mimangz.github.io/MMzDiary/202206/RPReview-P2.pdf)
