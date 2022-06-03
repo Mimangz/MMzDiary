@@ -14,3 +14,5 @@
 5.[电力系统继电保护复习（一）](https://mimangz.github.io/MMzDiary/202206/RPReview-P1.pdf)
 
 6.[电力系统继电保护复习（二）](https://mimangz.github.io/MMzDiary/202206/RPReview-P2.pdf)
+
+7.[可莉究极养成计划](https://mimangz.github.io/MMzDiary/202206/ForKlee.htm)
