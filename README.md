@@ -1,4 +1,5 @@
 # MMzDiary
+
 ### 迷茫子的笔记
 随便记记，使用Html或MarkDown。
 
@@ -20,4 +21,4 @@
 
 8.[（部分）老师语录](https://mimangz.github.io/MMzDiary/202206/TeacherQuote)
 
-9.[ Java IO教程 - by守望时空33](https://mimangz.github.io/MMzDiary/202206/JavaIO.htm)
+9.[Java IO教程 - by守望时空33](https://mimangz.github.io/MMzDiary/202206/JavaIO.htm)
