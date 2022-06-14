@@ -1,5 +1,4 @@
 # MMzDiary
-
 ### 迷茫子的笔记
 随便记记，使用Html或MarkDown。
 
