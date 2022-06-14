@@ -18,3 +18,5 @@
 7.[可莉究极养成计划](https://mimangz.github.io/MMzDiary/202206/ForKlee.htm)
 
 8.[（部分）老师语录](https://mimangz.github.io/MMzDiary/202206/TeacherQuote)
+
+9.[JavaIO教程 - by守望时空33](https://mimangz.github.io/MMzDiary/202206/JavaIO.htm)
