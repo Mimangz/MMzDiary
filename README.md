@@ -2,6 +2,10 @@
 ### 迷茫子的笔记
 随便记记，使用Html或MarkDown。
 
+该笔记目前仅记录202207之前的一些东西。至于后面的……待定。
+
+更希望如Repo名一样，让它成为我记录生活百态的日记。
+
 ### 以下为索引
 1.[电力系统继电保护复习大纲](https://mimangz.github.io/MMzDiary/202205/RelayProtectionOutline.html)
 
